@@ -1,8 +1,21 @@
 # Number-row-characters
 
-*1
-*@
-*\#\#
-*$
-*%
-*
+! - 
+@ -
+# -
+$ -
+% -
+^ -
+& -
+* -
+( -
+) -
+
+# Links
+
+
+
+
+# Experiments
+
+
