@@ -13,8 +13,8 @@ $ - dollar sign <br>
 
 # Links
 
-
-
+*  [Wikipedia](https://www.wikipedia.org/)
+*  [George Brown FAQ](https://www.georgebrown.ca/ask-george-brown)
 
 # Experiments
 
