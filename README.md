@@ -1,8 +1,8 @@
 # Number-row-characters
 
 ! - exclamation mark <br>
-@ - at sign
-\# - Hashtag
+@ - at sign <br>
+\# - Hashtag <br>
 $ - dollar sign
 % - precentage sign
 ^ - caret
