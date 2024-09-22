@@ -1,15 +1,15 @@
 # Number-row-characters
 
-! - 
-@ -
-# -
-$ -
-% -
-^ -
-& -
-* -
-( -
-) -
+! - exclamation mark
+@ - at sign
+# - Hashtag
+$ - dollar sign
+% - precentage sign
+^ - caret
+& - and sign
+* - asterisk
+( - open parentheses
+) - closed parentheses
 
 # Links
 
