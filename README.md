@@ -12,7 +12,7 @@ $ - dollar sign <br>
 ) - closed parentheses 
 
 # Links
-
+ 
 *  [Wikipedia](https://www.wikipedia.org/)
 *  [George Brown FAQ](https://www.georgebrown.ca/ask-george-brown)
 
