@@ -2,7 +2,7 @@
 
 ! - exclamation mark <br>
 @ - at sign
-# - Hashtag
+\# - Hashtag
 $ - dollar sign
 % - precentage sign
 ^ - caret
