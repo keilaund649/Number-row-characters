@@ -1,6 +1,6 @@
 # Number-row-characters
 
-! - exclamation mark
+! - exclamation mark <br>
 @ - at sign
 # - Hashtag
 $ - dollar sign
