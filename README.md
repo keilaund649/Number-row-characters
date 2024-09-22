@@ -3,13 +3,13 @@
 ! - exclamation mark <br>
 @ - at sign <br>
 \# - Hashtag <br>
-$ - dollar sign
-% - precentage sign
-^ - caret
-& - and sign
-* - asterisk
-( - open parentheses
-) - closed parentheses
+$ - dollar sign <br>
+% - precentage sign <br>
+^ - caret <br>
+& - and sign <br>
+\* - asterisk <br>
+( - open parentheses <br>
+) - closed parentheses 
 
 # Links
 
