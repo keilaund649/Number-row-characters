@@ -18,7 +18,7 @@ $ - dollar sign <br>
 
 # Experiments
 
-:stuck_out_tongue_closed_eyes:
-:unamused:
+:stuck_out_tongue_closed_eyes:<br>
+:unamused:<br>
 :angry:
 
