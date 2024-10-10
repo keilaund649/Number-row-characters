@@ -22,4 +22,4 @@ $ - dollar sign <br>
 :unamused:<br>
 :angry:
 
-docs/cli.mid
+(docs/cli.mid)
